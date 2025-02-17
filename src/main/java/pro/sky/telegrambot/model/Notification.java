@@ -23,7 +23,6 @@ public class Notification {
         this.notificationText = notificationText;
         this.notificationDatetime = notificationDatetime;
     }
-
     public Notification() {
     }
 

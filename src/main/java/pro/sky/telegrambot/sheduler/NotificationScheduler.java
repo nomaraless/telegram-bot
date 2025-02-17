@@ -29,4 +29,5 @@ public class NotificationScheduler {
             telegramBot.execute(new SendMessage(task.getChatId(), task.getNotificationText()));
         });
     }
+
 }
